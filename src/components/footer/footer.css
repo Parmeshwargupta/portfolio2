@@ -41,7 +41,7 @@ footer a {
     border: 1px solid transparent;
 }
 
-..footer_socials:hover {
+.footer_socials:hover {
     background: transparent;
     color: var(--color-bg);
     border-color: var(--color-bg);
@@ -51,20 +51,6 @@ footer a {
     margin-bottom: 4rem;
     color: var(--color-bg);
 }
-
-
-/* =================MEDIA QUERIES (MEDIUM DIVICES)=========== */
-
-
-/* @media screen and (max-width:1024px) {
-    .portfolio_container {
-        grid-template-columns: 1fr 1fr;
-        gap: 1.2rem;
-    }
-} */
-
-
-/* =================MEDIA QUERIES (SMALL DIVICES LIKE MOBILE PHONE)=========== */
 
 @media screen and (max-width:600px) {
     .pernalinks {

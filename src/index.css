@@ -112,14 +112,9 @@ img {
     display: block;
     width: 100%;
     height: 100%;
-    /* padding-left: 2rem; */
-    /* align-content: center; */
     object-fit: cover;
     margin-bottom: 20rem;
 }
-
-
-/* =================MEDIA QUERIES (MEDIUM DIVICES)=========== */
 
 @media screen and (max-width:1024px) {
     .container {
@@ -130,9 +125,6 @@ img {
 section {
     margin-top: 2rem;
 }
-
-
-/* =================MEDIA QUERIES (SMALL DIVICES LIKE MOBILE PHONE)=========== */
 
 @media screen and (max-width:600px) {
     .container {
